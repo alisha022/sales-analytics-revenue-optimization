@@ -27,7 +27,7 @@ patterns and recommends actionable strategies.
 ├── requirements.txt                      # Dependencies
 └── README.md
 ## Live Demo
-🔗 [View Dashboard →](YOUR-STREAMLIT-LINK)
+🔗 [View Dashboard →](https://sales-analytics-revenue-optimization-nq.streamlit.app/)
 
 ## Run Locally
 ```bash
